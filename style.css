@@ -21,7 +21,7 @@ body {
 
 .cont-img {
   position: relative;
-  height: auto;
+  height: 300px;
   .img1 {
     width: 100%;
     object-fit: cover;
